@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on building a better world for everyone, with code
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkelHebel)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---

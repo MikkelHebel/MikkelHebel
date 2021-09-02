@@ -3,15 +3,13 @@
 - 🌱 I’m currently learning Javascript, node.js & Python
 - 💞️ I’m looking to collaborate on building a better world for everyone, with code
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkelHebel)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/MikkelHebel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel" />
 </a>
 <a href="https://github.com/MikkelHebel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel" />
 </a>
 <a href="https://github.com/MikkelHebel/Project-Sarcina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikkelHebel&repo=Project-Sarcina" />

@@ -1,21 +1,25 @@
-- 👋 Hi, I’m Mikkel Hebel
-- 👀 I’m interested in playing video games and coding both front and backend (Full stack)
-- 🌱 I’m currently learning Javascript, node.js & Python
-- 💞️ I’m looking to collaborate on building a better world for everyone, with code
+# 👋 Hello there, I’m Mikkel Hebel
+- 💻 I love playing video games and being outside in nature 🌳
+- 😎 I'm a self taught frontend and backend developer (Full stack)
+- 🎓 I’m currently learning Javascript, node.js & Python
+- 👀 I’m looking to collaborate on building a better world for everyone, with code
+
+__Links:__
+INSERT LINKS
 
 
-
+⚙️  GitHub Analytics<br>
 <a href="https://github.com/MikkelHebel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/MikkelHebel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&theme=algolia&show_icons=true&layout=compact" />
 </a>
+
+🛠  Tech Stack
+
+
+
 <a href="https://github.com/MikkelHebel/Project-Sarcina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikkelHebel&repo=Project-Sarcina" />
 </a>
-
-<!---
-MikkelHebel/MikkelHebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

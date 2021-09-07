@@ -10,7 +10,7 @@ INSERT LINKS
 
 ⚙️  GitHub Analytics<br>
 <a href="https://github.com/MikkelHebel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel&theme=algolia&show_icons=true&hide=prs" />
 </a>
 <a href="https://github.com/MikkelHebel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&theme=algolia&show_icons=true&layout=compact" />

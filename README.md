@@ -49,8 +49,14 @@
   <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=javascript&sort=">
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="55" />
   </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=javascript&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="55" />
+  </a>
   <a href="https://www.digitalocean.com/">
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" />
+  </a>
+  <a href="https://www.github.com/">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg" width="55" />
   </a>
 </div>
 <br>

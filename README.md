@@ -10,7 +10,7 @@
 </div><br>
 
 - 💻 I love playing video games, coding and being outside in nature 🌳
-- 😎 I'm a self taught frontend and backend developer (Full stack)
+- 😎 I'm a self taught frontend and backend developer (Full stack) and I'm always looking to learn something new.
 - 🎓 I’m currently learning Javascript, node.js & Python
 - 👀 I’m looking to collaborate on building a better world for everyone, with code
 <br>

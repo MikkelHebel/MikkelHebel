@@ -21,7 +21,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelHebel&count_private=true&theme=algolia&show_icons=true&hide=prs" width="510" />
   </a>
   <a href="https://github.com/MikkelHebel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&theme=algolia&show_icons=true&layout=compact" width="445" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelHebel&theme=algolia&show_icons=true&layout=compact?langs_count=8" width="445" />
   </a>
 </div>
 <br>

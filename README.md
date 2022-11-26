@@ -68,6 +68,6 @@
 <a href="https://github.com/MikkelHebel/Project-Sarcina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikkelHebel&repo=Project-Sarcina" />
 </a>
-<a href="https://github.com/MikkelHebel/Project-Sarcina">
+<a href="https://github.com/MikkelHebel/CanSat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikkelHebel&repo=CanSat" />
 </a>

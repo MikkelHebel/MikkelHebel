@@ -8,16 +8,19 @@
     <img align="center" src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="Mikkel Hebel" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
   </a>
 </div><br>
-
-- 💻 I love playing video games and coding
-- 😎 I'm a self taught frontend and backend developer (Full stack) and I'm always looking to learn something new.
-- 🎓 I’m currently learning Javascript, node.js & Python
-- 👀 Currently working on:
 <ul>
-  <li>A Minecraft Server Network called BlockHub</li>
-  <li>A small startup</li>
-  <li>My own side projects</li>
+  <li>💻 I love playing video games and coding</li>
+  <li>😎 I'm a self taught frontend and backend developer (Full stack) and I'm always looking to learn something new.</li>
+  <li>🎓 I’m currently learning Javascript, node.js & Python</li>
+  <li>👀 Currently working on:
+    <ul>
+      <li>A Minecraft Server Network called BlockHub</li>
+      <li>A small startup</li>
+      <li>My own side projects</li>
+    </ul>
+  </li>
 </ul>
+
 <br>
 
 ⚙️  __GitHub Analytics__<br>

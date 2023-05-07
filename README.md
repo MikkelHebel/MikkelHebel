@@ -9,10 +9,15 @@
   </a>
 </div><br>
 
-- 💻 I love playing video games, coding and being outside in nature 🌳
+- 💻 I love playing video games and coding
 - 😎 I'm a self taught frontend and backend developer (Full stack) and I'm always looking to learn something new.
 - 🎓 I’m currently learning Javascript, node.js & Python
-- 👀 I’m looking to collaborate on building a better world for everyone, with code
+- 👀 Currently working on:
+<ul>
+  <li>A Minecraft Server Network called BlockHub</li>
+  <li>A small startup</li>
+  <li>My own side projects</li>
+</ul>
 <br>
 
 ⚙️  __GitHub Analytics__<br>

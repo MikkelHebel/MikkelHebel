@@ -61,7 +61,7 @@
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg" width="55" />
   </a>
   <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=c%2B%2B&sort=">
-    <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" width="55" />
+    <img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" width="55" />
   </a>
   <a href="https://www.github.com/">
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg" width="55" />

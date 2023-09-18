@@ -20,7 +20,7 @@
 🛠  __Technologies I use__<br>
 <p align="center">
   <a href="https://github.com/MikkelHebel">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,arduino,cpp,bootstrap,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs,arduino,bootstrap,nodejs" />
   </a>
   <br>
   <a href="https://github.com/MikkelHebel">
